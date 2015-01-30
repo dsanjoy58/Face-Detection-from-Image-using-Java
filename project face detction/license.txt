@@ -1,0 +1,1 @@
+This project is based on haar cascade classifier and the project was completed  by Sanjoy Dutta and Abu Saleh Musa.
